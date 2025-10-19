@@ -1,34 +1,84 @@
-# My-portfolio
+# 🌐 Thabang Paul Mbatha – Developer Portfolio
 
-💼 Thabang Mbathi — Developer Portfolio
+Welcome to my personal portfolio repository! This site showcases my journey, skills, certifications, and projects as a web developer and data engineer.
 
-Welcome to my personal developer portfolio! This project showcases a collection of my work, skills, and experience as a developer, all in one place.
 
-📌 About
+## 🧠 About Me
 
-This portfolio is a reflection of my journey as a software developer. It highlights the projects I've worked on, the technologies I'm proficient in, and a bit about me as a professional. Whether you're a recruiter, potential collaborator, or just curious — thank you for stopping by!
+I’m **Thabang Paul Mbatha**, a self-taught and formally trained software developer with experience in:
 
-🛠️ Built With
+- **Frontend & Backend Development**
+- **Data Engineering & ETL Pipelines**
+- **API Integration**
+- **Business Intelligence (Power BI)**
+- **Customer-Focused Problem Solving**
 
-HTML5
+Currently a Software Engineering student at **WeThinkCode_**, I’m passionate about building scalable web applications and working with data to solve real-world problems.
 
-JavaScript
+---
 
-CSS 
+## 💼 Career Journey
 
-📁 Features
+| Year        | Role/Activity                                  |
+|-------------|------------------------------------------------|
+| 2009        | Completed Grade 12                             |
+| 2010–2012   | Pipe Fitter at Sasol                           |
+| 2013–2017   | Waiter at Spur (Various Locations)             |
+| 2018        | Rewrote Matric                                 |
+| 2023        | Enrolled at University of Pretoria (Left)      |
+| 2024        | Joined WeThinkCode_ + Relief Consultant @ Mukuru |
 
-Interactive and responsive design
+---
 
-Project showcase with descriptions and links
+## 🛠️ Skills
 
-Contact form or contact info
+- **Languages**: Python, Java, JavaScript, SQL
+- **Databases**: MySQL, PostgreSQL
+- **Frameworks/Tools**: React, .NET, Power BI
+- **Other**: Web Development, ETL, Backend Logic, Self-learning
 
-Resume/CV download
+---
 
-GitHub and LinkedIn integration
+## 🧾 Certificates
 
-🚀 Live Demo
+I’ve completed certifications in:
 
-🔗 Visit Portfolio Website
+- Python
+- Java
+- JavaScript
+- SQL, MySQL & PostgreSQL
+- .NET
+- React
+- Power BI
 
+[View all certificates here ➜](#certificates)
+
+---
+
+## 🔨 Projects
+
+| Project               | Description                                     |
+|-----------------------|-------------------------------------------------|
+| **Portfolio Website** | This site – built with HTML, CSS, and JS       |
+| **Business Landing Page** | A clean landing page layout for small businesses |
+| **Weather App**       | A simple weather app using an external API     |
+
+---
+
+## 📬 Contact
+
+Feel free to connect or reach out:
+
+- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
+- 💬 WhatsApp: [Click to chat](https://wa.me/15551234567)
+- 🔗 GitHub: [github.com/Ned-Deev](https://github.com/Ned-Deev)
+- 🔗 LinkedIn: [linkedin.com](https://linkedin.com)
+
+---
+
+## 🚀 Technologies Used
+
+- HTML5 / CSS3 / JavaScript
+- Font Awesome
+- Google Fonts
+- AOS Ani
