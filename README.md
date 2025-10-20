@@ -1,6 +1,6 @@
-# 🌐 Thabang Paul Mbatha – Developer Portfolio
+# 🌐 Thabang Paul Mbatha – Data Engineer Portfolio
 
-Welcome to my personal portfolio repository! This site showcases my journey, skills, certifications, and projects as a web developer and data engineer.
+Welcome to my personal portfolio repository! This site showcases my journey, skills, certifications, and projects as a data engineer.
 
 
 ## 🧠 About Me
