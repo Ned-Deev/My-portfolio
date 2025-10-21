@@ -1,0 +1,13 @@
+CREATE TABLE projects (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  name TEXT NOT NULL,
+  description TEXT,
+  category TEXT
+) ENGINE=InnoDB;
+
+
+-- Insert sample project data
+INSERT INTO projects (name, description, category) VALUES
+  ('Project A', 'A cool web project', 'web'),
+  ('Project B', 'A data engineering task', 'data'),
+  ('Project C', 'Fun game build', 'game');
