@@ -69,16 +69,16 @@ I’ve completed certifications in:
 
 Feel free to connect or reach out:
 
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
-- 💬 WhatsApp: [Click to chat](https://wa.me/15551234567)
+- 📧 Email: mbathabangpaul@gmail.com
+- 💬 WhatsApp: 0739247762)
 - 🔗 GitHub: [github.com/Ned-Deev](https://github.com/Ned-Deev)
-- 🔗 LinkedIn: [linkedin.com](https://linkedin.com)
+- 🔗 LinkedIn: linkedin.com/in/thabang-mbatha-805040273
 
 ---
 
 ## 🚀 Technologies Used
 
-- HTML5 / CSS3 / JavaScript
+- HTML / CSS / JavaScript, Pyhton and MySQL
 - Font Awesome
 - Google Fonts
 - AOS Ani
